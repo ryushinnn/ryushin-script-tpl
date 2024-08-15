@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "displayName": "Ryushin Script Template",
   "description": "This is the collection of script templates.",
-  "unity": "2020.1",
   "author": {
     "name": "Le Duy Tien",
     "email": "liw140402@gmail.com"
